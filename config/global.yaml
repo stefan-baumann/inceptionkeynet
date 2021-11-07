@@ -1,0 +1,11 @@
+terminal_log_level: INFO # DEBUG, INFO, WARNING or ERROR
+default_format: .yaml
+dataset_format: .json
+data_format: .npy
+
+audio_sample_rate: 44100 # Please be careful changing this setting - if it is changed, all preprocessed data has to be recomputed by manually removing the corresponding directories and then re-running the processing scripts
+
+datasets_path: ./data/datasets
+processed_data_path: ./data/processed
+models_path: ./data/models
+bayesian_path: ./data/bayesian_optimization

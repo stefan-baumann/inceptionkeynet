@@ -1,0 +1,2 @@
+download_delay: 2
+retry_inconclusive_results_from_previous_runs: true

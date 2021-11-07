@@ -1,0 +1,3 @@
+# Dataset Source Files
+
+This directory is the input endpoint for dataset source files. The source files are the original files the datasets are available as. For copyright reasons, these obviously cannot be easily distributed as a part of this repository, so please see the respective source files in `inceptionkeynet/datasets/*` for instructions & links as to where you can download these source files.
