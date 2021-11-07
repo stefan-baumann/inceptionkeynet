@@ -142,6 +142,7 @@ cython_debug/
 # Data except for dataset source files (data has to be matched as data/**/*.* as negations only work if the files have not been matched via a directory before)
 data/**/*.*
 !data/datasets/source_files/*.*
+!data/datasets/subsets_with_audio_available_for_paper/*.*
 !data/datasets/analyses/**/*.*
 
 # Critical information
